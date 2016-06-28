@@ -1,0 +1,106 @@
+body {
+  margin: 0px 0px;
+}
+.container_12 {
+  background-color: grey;
+}
+
+h1{
+
+  font-family: 'Lobster', cursive;
+
+margin-left: 5px;
+}
+
+
+header:hover{
+
+/*font-family: sans-serif;*/
+  background-color:#ff80bf;
+ height: 50px;
+ font-size: 20px;
+ font-family: comic sans;
+
+
+}
+.container_12{
+  background-color: #ffffb3;
+}
+header p {
+color: blue;
+font-size: 20px;
+font-family: sans-serif;
+text-align: center;
+}
+.menu{
+background-color: #F2449E;
+  /*clear: both;*/
+  height: 50px;
+  font-style: sans serif;
+}
+nav li{
+font-size: 18 px;
+display: inline;
+  margin-left: 30 px;margin-right: 20 px;
+color: red;
+  font-family: serif;
+}
+nav a{
+text-decoration: none;
+}
+.menu a{color: white;}
+
+
+footer{
+  background-color: #ff80bfs;
+  height: 50px;
+  clear: both;
+
+
+}
+.img{
+  background-image: url("backS.jpg");
+  height: 200px;
+  width: 300px;
+}
+.img1{
+  background-image: url("backI.jpg");
+  height: 200px;
+  width: 300px;
+
+}
+.img2{
+  background-image: url("Windows-10-RTM-Wallpaper.png");
+  height: 200px;
+  width: 300px;
+}
+footer a{align-content: right;}
+
+ .img, .img1, .img2{
+margin-top: 20px;
+margin-bottom: 20px;
+  height: 300px;
+
+}
+
+.heroimg{
+  background-color: ROSYBROWN;
+  height: 300px;
+  margin-bottom: 20px;
+  margin-left: 0px;
+}
+.img p{
+  font-family: cursive;
+  font-size: 18px;
+  color: black;
+}
+.img1 p{
+  font-family: cursive;
+  font-size: 16px;
+  color: white;
+}
+.img2 p{
+  font-family: cursive;
+  font-size: 16px;
+  color: white;
+}

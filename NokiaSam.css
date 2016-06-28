@@ -1,0 +1,56 @@
+body {
+  margin: 0px 0px;
+}
+.container_12 {
+
+}
+
+div img{width:320px;height:300px;}
+
+header{
+  font-family: 'frijole',cursive;
+  background-color:red;
+ height: 50px;
+ font-size: 20px;
+ font-family: comic sans;
+
+
+}
+nav{
+  margin-left: 0px;
+  display: inline;
+  background-color: pink;
+  /*clear: both;*/
+  height: 50px;
+  font-style:impact;
+
+}
+footer{
+  background-color: #BA55D3;
+  height: 50px;
+  clear: both;
+
+
+}
+footer h5{
+  float:left;
+
+}
+.icon{float:right;}
+ .img, .img1, .img2{
+margin-top: 20px;
+margin-bottom: 20px;
+  height: 300px;
+
+}
+.img{
+margin-left: 0px;
+  background-color: BLUE;
+}
+ .img1{
+  background-color:  SLATEBLUE;
+}
+ .img2{
+  background-color:  DARKVIOLET;
+
+}

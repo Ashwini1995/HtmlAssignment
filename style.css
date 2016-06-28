@@ -1,0 +1,45 @@
+.container_12{
+  background:crimson;
+
+}
+nav li{
+
+  display: inline;margin-left: 30 px;margin-right: 20 px;
+}
+aside {
+text-align: center;
+  background: white;
+}
+.primary{
+  font-family: "calibri", Garamond, 'Comic Sans',;
+}
+header{
+
+  font-variant-east-asian: normal;
+  background-color: darkmagenta;
+}
+.main{
+  margin: 30px 0;
+}
+section{
+
+  box-sizing: content-box;
+
+}
+aside ul{
+  /*float: right;*/
+  text-align: center;
+   font-family:comic sans ms;
+  font-family: fantasy;
+
+}
+body{
+  font-family: google;
+  background-image: url("3D abstract hd imagess (13).jpg");
+}
+h1{
+  font-family: cursive;
+}
+p{
+  font-size: 8;
+}
